@@ -29,3 +29,5 @@ WB2: Implementacja mechanizmów ochrony przed atakami typu SQL Injection, XSS or
 WB3: System musi umożliwiać szyfrowanie kodu źródłowego przed publikacją na serwerach zewnętrznych.
 WB4: Każda zmiana w kodzie musi być śledzona w systemie kontroli wersji, a commitów dokonywać mogą wyłącznie uprawnieni deweloperzy.
 WB5: Wprowadzenie testów penetracyjnych każdej nowej wersji kodu przed jej wdrożeniem do produkcji.
+
+Dodano opis wymagań
